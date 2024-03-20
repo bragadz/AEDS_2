@@ -2,7 +2,7 @@ package BEECROWD;
 
 import java.util.Scanner;
 
-public class Main {
+public class CombinarStrings {
 
     public static String combinarString(String str1, String str2){
         StringBuilder combinadas = new StringBuilder();
