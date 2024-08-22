@@ -27,7 +27,7 @@ public class Palindromo {
             } else {
                 System.out.println("NAO");
             }
-            
+
             palavra = sc.nextLine();
         }
 
